@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-basic-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imarpit007/nodejs-basic-template.git"
+  },
+  "author": "Arpit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imarpit007/nodejs-basic-template/issues"
+  },
+  "homepage": "https://github.com/imarpit007/nodejs-basic-template#readme"
+}
