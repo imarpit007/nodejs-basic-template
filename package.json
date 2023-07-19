@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/imarpit007/nodejs-basic-template/issues"
   },
-  "homepage": "https://github.com/imarpit007/nodejs-basic-template#readme"
+  "homepage": "https://github.com/imarpit007/nodejs-basic-template#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
